@@ -7,3 +7,7 @@
 [아이템 4 : inferred 타입으로 리턴하지 말라](https://puzzle-blouse-b1f.notion.site/4-inferred-7be6cf6ba74140319eaed0933ff80db6)
 
 [아이템 5 : 예외를 활용해 코드에 제한을 걸어라](https://puzzle-blouse-b1f.notion.site/5-f4827e900e9f4f74b76185043f66ee9b)
+
+[아이템 6 : 사용자 정의 오류보다는 표준 오류를 사용해라](https://puzzle-blouse-b1f.notion.site/6-33a201bf323647318b7834a44cf3027c)
+
+[아이템 7 : 결과 부족이 발생할 경우 null과 Failure를 사용하라](https://puzzle-blouse-b1f.notion.site/7-null-Failure-453d44a43b744f15b5bbfadddafa0cad)
