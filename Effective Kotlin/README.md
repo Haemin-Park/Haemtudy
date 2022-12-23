@@ -11,3 +11,5 @@
 [아이템 6 : 사용자 정의 오류보다는 표준 오류를 사용해라](https://puzzle-blouse-b1f.notion.site/6-33a201bf323647318b7834a44cf3027c)
 
 [아이템 7 : 결과 부족이 발생할 경우 null과 Failure를 사용하라](https://puzzle-blouse-b1f.notion.site/7-null-Failure-453d44a43b744f15b5bbfadddafa0cad)
+
+[아이템 8 : 적절하게 null을 처리하라](https://puzzle-blouse-b1f.notion.site/8-null-fe2ca82da7ef497e9f5d257bc5051b6c)
