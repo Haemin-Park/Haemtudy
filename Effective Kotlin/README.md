@@ -13,3 +13,7 @@
 [아이템 7 : 결과 부족이 발생할 경우 null과 Failure를 사용하라](https://puzzle-blouse-b1f.notion.site/7-null-Failure-453d44a43b744f15b5bbfadddafa0cad)
 
 [아이템 8 : 적절하게 null을 처리하라](https://puzzle-blouse-b1f.notion.site/8-null-fe2ca82da7ef497e9f5d257bc5051b6c)
+
+[아이템 9 : use를 사용하여 리소스를 닫아라](https://puzzle-blouse-b1f.notion.site/9-use-8372c9d5436249ecb920987950ca974f)
+
+[아이템 10 : 단위 테스트를 만들어라](https://puzzle-blouse-b1f.notion.site/10-a05bc75724ec4256b3e6e0760187dd02)
